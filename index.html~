@@ -1,0 +1,88 @@
+<html>
+<head>
+  <title>Outspoken: Chicago's Free Speech Tradition</title>
+<!--makes the links appear without underline-->
+  <style type="text/css"><!-- A { text-decoration:none; color: #00008B } -->  </style>
+  <meta name="Description" http-equiv="Description" hinterlands=""
+ its="" and="" chicago="" in="" dissent="" artistic="" cultural=""
+ political="" of="" history="" the="" discover="" to="" opportunity=""
+ rare="" a="" provide="" will="" outspoken="" society="" historical=""
+ library="" newberry="" collections="" combined="" on="" drawing=""
+ activism="" speech="" free="" for="" locale="" vibrant="" been=""
+ always="" has="" present="" movement="" slam="" poetry=""
+ content="From the antislavery groups of the 1840s to the ">
+  <meta name="Keywords" http-equiv="Keywords"
+ content="free speech in Chicago, free speech, freedom of expression in Chicago, freedom of expression, free speech activism in Chicago, free speech activism, bohemians, abolition, anitslavery, dil pickle, dill pickle, popular front artists, the Chicago Historical Society, the Newberry Library, Newberry, Newberry Library">
+</head>
+<body>
+<font face="Helvetica, Arial, sans-serif"><!--entire page sits within a table-->
+<!--in designing page have left borders in - will remove in final version- JK-->
+<table cellpadding="0" cellspacing="0" border="0" width="640">
+  <tbody>
+<!--table with front page graphics-->
+  </tbody>
+</table>
+<table cellpadding="5" cellspacing="5" border="0" width="640">
+  <tbody>
+    <tr>
+      <td rowspan="9" valign="top" align="left"><img
+ src="websiteimages/outspoken_logo.jpg"><br>
+      <img src="websiteimages/date.jpg"><BR>
+<font size="-2">&nbsp;<BR>This exhibit was organized by the Newberry Library's Dr. William M. Scholl Center for Family and Community History and the Chicago Historical Society.  It was made possible with major funding provided in part by <a href="http://www.imls.gov/index.htm" target="_blank">The Institute of Museum and Library Services</a>, a federal agency that fosters innovation, leadership and a lifetime of learning. 
+Generous support was also provided by The Chicago Reader and Dr. and Mrs. Tapas K. Das Gupta.</td>
+    </tr>
+    <tr>
+      <td valign="middle" width="200" align="left"><img
+ style="border-style: none;" usemap="#frontnav"
+ src="websiteimages/frontnav.jpg"></td>
+    </tr>
+  </tbody>
+</table>
+<map id="frontnav" name="frontnav">
+<area shape="rect"#Visiting the Newberry
+ coords="8,0,153,25" href="visitingexhibit/visiting_index.html" title="Visiting the Newberry" />
+<area shape="rect"#Chicago Historical Society
+ coords="7,26,176,59" href="aboutchs.html" title="Chicago Historical Society" />
+<area shape="rect"#Virtual Exhibit
+ coords="7,62,104,94" href="exhibit/exhibit_index.html" title="Virtual Exhibit" />
+<area shape="rect"#Resources
+ coords="8,99,86,129" href="additional.html" title="Resources" />
+<area shape="rect"#Acknowledgments
+ coords="7,133,139,155" href="acknowledgments.html" title="Acknowledgments" />
+<area shape="rect"#Newberry Library
+ coords="5,153,54,209" href="http://www.newberry.org" title="Newberry Library" />
+<area shape="rect"#IMLS
+ coords="101,152,163,213" href="http://www.imls.gov" title="IMLS" />
+<area shape="rect"#Chicago Historical Society
+ coords="12,212,162,249" href="http://www.chicagohistory.org" title="Chicago Historical Society" />
+<area shape="default" nohref="nohref" alt="" />
+</map>
+</div>
+<table width="640">
+  <tbody>
+    <tr>
+      <td colspan="2">
+      <hr noshade="noshade" size="1"></td>
+    </tr>
+    <tr>
+      <td valign="top" align="left"> <font size="-1"><a
+ href="text_only.html">text only</a></font> </td>
+      <td valign="top" align="right"> <font size="-1">Copyright
+2004 <a href="http://www.newberry.org">The Newberry Library</a></font> </td>
+    </tr>
+  </tbody>
+</table>
+</map>
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-5551324-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+</body>
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE HTML PUBLIC "-//SoftQuad//DTD HoTMetaL PRO 4.0::19970714::extensions to HTML 4.0//EN" "hmpro4.dtd">
+<HTML> 
+  <HEAD> 
+	 <TITLE>Buccola 07-08-04</TITLE>
+	 <META HTTP-EQUIV="Description" NAME="Description"
+	  CONTENT="A professional development program of the Newberry Library in partnership with the Chicago Public Schools Department of Instruction for Reading, Language Arts, and Social Science.">
+	 <META HTTP-EQUIV="Keywords" NAME="Keywords"
+	  CONTENT="Newberry, library, humanities, books, rare, fun, great staff, chicago, teachers, scholars">
+	 <LINK REL="stylesheet" TYPE="text/css" HREF="../lev3.css" TITLE="level3"> 
+  </HEAD> 
+  <BODY BGCOLOR="FFFFFF" LINK="990000" VLINK="333333" ALINK="CCCC99">
+	 <IMG SRC="http://www.newberry.org/images/l3rtoplinks.gif" WIDTH="475"
+	  HEIGHT="15" BORDER="0" USEMAP="#researchmap"> 
+	 <MAP NAME="aboutmap">
+		<AREA SHAPE="rect" COORDS="3,2,64,10" HREF="../general/abouthome.html"
+		 TARGET="_top">
+		<AREA SHAPE="rect" COORDS="70,2,145,10"
+		 HREF="../collections/collectionshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="151,2,208,10"
+		 HREF="http://www.newberry.org/events/eventshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="214,2,288,10"
+		 HREF="http://www.newberry.org/programs/programshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="294,2,400,10" HREF="../research/researchhome.html"
+		 TARGET="_top">
+		<AREA SHAPE="rect" COORDS="407,2,473,10"
+		 HREF="http://www.newberry.org/friends/friendshome.html" TARGET="_top"> 
+	 </MAP> 
+	 <MAP NAME="collectionsmap">
+		<AREA SHAPE="rect" COORDS="10,2,78,10" HREF="../general/abouthome.html"
+		 TARGET="_top">
+		<AREA SHAPE="rect" COORDS="83,2,145,10"
+		 HREF="../events/eventshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="150,2,229,10"
+		 HREF="http://www.newberry.org/programs/programshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="234,2,268,10"
+		 HREF="http://www.newberry.org/genealogy/genealogyhome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="273,2,388,10" HREF="../research/researchhome.html"
+		 TARGET="_top">
+		<AREA SHAPE="rect" COORDS="393,2,467,10"
+		 HREF="http://www.newberry.org/friends/friendshome.html" TARGET="_top"> 
+	 </MAP> 
+	 <MAP NAME="eventsmap">
+		<AREA SHAPE="rect" COORDS="1,2,70,10" HREF="../general/abouthome.html"
+		 TARGET="_top">
+		<AREA SHAPE="rect" COORDS="76,2,152,10"
+		 HREF="../collections/collectionshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="160,2,238,10"
+		 HREF="http://www.newberry.org/programs/programshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="244,2,276,10"
+		 HREF="http://www.newberry.org/genealogy/genealogyhome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="282,2,397,10" HREF="../research/researchhome.html"
+		 TARGET="_top">
+		<AREA SHAPE="rect" COORDS="403,2,472,10"
+		 HREF="http://www.newberry.org/friends/friendshome.html" TARGET="_top"> 
+	 </MAP> 
+	 <MAP NAME="programsmap">
+		<AREA SHAPE="rect" COORDS="7,2,77,10" HREF="../general/abouthome.html"
+		 TARGET="_top">
+		<AREA SHAPE="rect" COORDS="83,2,163,10"
+		 HREF="../collections/collectionshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="170,2,227,10"
+		 HREF="http://www.newberry.org/events/eventshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="234,2,268,10"
+		 HREF="http://www.newberry.org/genealogy/genealogyhome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="275,2,389,10" HREF="../research/researchhome.html"
+		 TARGET="_top">
+		<AREA SHAPE="rect" COORDS="395,2,465,10"
+		 HREF="http://www.newberry.org/friends/friendshome.html" TARGET="_top"> 
+	 </MAP> 
+	 <MAP NAME="genealogymap">
+		<AREA SHAPE="rect" COORDS="3,2,20,10" HREF="../newberryhome.html"
+		 TARGET="_top">
+		<AREA SHAPE="rect" COORDS="25,2,85,10" HREF="../general/abouthome.html"
+		 TARGET="_top">
+		<AREA SHAPE="rect" COORDS="90,2,160,10"
+		 HREF="../collections/collectionshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="165,2,220,10"
+		 HREF="http://www.newberry.org/events/eventshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="225,2,295,10"
+		 HREF="http://www.newberry.org/programs/programshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="300,2,402,10" HREF="../research/researchhome.html"
+		 TARGET="_top">
+		<AREA SHAPE="rect" COORDS="407,2,470,10"
+		 HREF="http://www.newberry.org/friends/friendshome.html" TARGET="_top"> 
+	 </MAP> 
+	 <MAP NAME="researchmap">
+		<AREA SHAPE="rect" COORDS="22,2,91,10"
+		 HREF="http://www.newberry.org/general/abouthome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="98,2,177,10"
+		 HREF="../collections/collectionshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="184,2,248,10"
+		 HREF="http://www.newberry.org/events/eventshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="255,2,333,10"
+		 HREF="http://www.newberry.org/programs/programshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="341,2,374,10"
+		 HREF="http://www.newberry.org/genealogy/genealogyhome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="381,2,453,10"
+		 HREF="http://www.newberry.org/friends/friendshome.html" TARGET="_top"> 
+	 </MAP> 
+	 <MAP NAME="friendsmap">
+		<AREA SHAPE="rect" COORDS="5,2,73,10" HREF="../general/abouthome.html"
+		 TARGET="_top">
+		<AREA SHAPE="rect" COORDS="80,2,158,10"
+		 HREF="../collections/collectionshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="165,2,225,10"
+		 HREF="http://www.newberry.org/events/eventshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="232,2,308,10"
+		 HREF="http://www.newberry.org/programs/programshome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="315,2,348,10"
+		 HREF="http://www.newberry.org/genealogy/genealogyhome.html" TARGET="_top">
+		<AREA SHAPE="rect" COORDS="355,2,470,10" HREF="../research/researchhome.html"
+		 TARGET="_top"> 
+	 </MAP> 
+	 <H2><B><A NAME="NTC"><FONT SIZE="+1"><FONT SIZE="+1">Fairy
+		Lore</FONT></FONT></A></B></H2> 
+	 <P><B>Seminar Description</B><BR>One of the principal challenges facing
+	 anyone attempting to teach any of the numerous pieces of British literature
+	 that feature fairies is that everyone thinks that they know what fairies are.
+	 Students who grew up watching Tinkerbell apply the signature twinkle to the
+	 Disney logo can now buy fairy earrings, T-shirts and temporary tattoos at the
+	 local mall. However, these highly sanitized, butterfly-winged fairies will not
+	 help them understand the various fairy heroines of Arthurian legend, or
+	 Chaucer's cheeky redaction of this tradition in "The Wife of Bath's Tale", or
+	 Spenser's Gloriana, and certainly not the range of fairy characters that
+	 inhabit Shakespeare's plays. In this workshop, we will discuss some of the most
+	 salient aspects of medieval and early modern fairy belief for the literature of
+	 the period. The fairy bride legend, changeling lore, and tales of fairy
+	 midwives and fairy queens will take center stage as we explore the significance
+	 of these stories for their cultural context, and the import that they have in
+	 the literature in which they appear.</P> 
+	 <P><B>About the Instructor</B><BR>Regina Buccola is assistant professor of
+	 English at Roosevelt University. Her research interests and teaching areas
+	 include Shakespearean-era drama, twentieth-century feminist drama, feminist
+	 literary and performance theory, and British and American poetry. </P> 
+	 <P><B>Seminar Bibliography</B></P> 
+	 <P>Purkiss, Diane. <I>At the Bottom of the Garden: A Dark History of
+	 Fairies, Hobgoblins, and Other Troublesome Things. </I>New York University
+	 Press: New York, 2000.</P> </BODY>
+</HTML>

@@ -1,0 +1,85 @@
+div.navcolumn {
+#	position: fixed;
+	float: left;
+}
+
+div.navblock {
+	clear: left;
+	margin: 1em;
+}
+
+.navblock a {
+	display: block;
+	padding: 0.2em;
+	padding-left: 0.5em;
+	margin-top: 0.5em;
+	background: #CEC69C;
+	font-weight: bold;
+}
+
+.navblock a:hover {
+	color: #C68C5A;
+	color: #8c3139;
+	background: #D6DEBD;
+	text-decoration: none;
+}
+.navblock a:link {
+	color: #6B4A21;
+	color: #7b5229;
+	text-decoration: none;
+}
+.navblock a:visited {
+	color: #7b5229;
+	color: #C68C5A;
+	text-decoration: none;
+}
+
+#jacket {
+	margin: 1em;
+	float : left;
+}
+
+.jackettext , .maintext {
+	margin-left: 230px;
+	margin-right: 10%;
+}
+
+
+.ul {
+	margin-left: 0px;
+}
+
+div.creditcolumn {
+	width: 180px;
+	clear: left;
+	float: left;
+	padding: 1em;
+	margin: 1em;
+	background: #D6DEBD;
+	font-size: 10pt;
+/*
+	clear: right;
+	float: right;
+	width: 20%;
+*/
+}
+
+div.edcredit {
+	font-size: 12pt;
+}
+
+.fundblock, .NL_CHS, .fundcat {
+	margin-top: 6pt;
+}
+
+div.funder {
+	text-indent: -10pt;
+	margin-left: 20pt;
+}
+
+div.orderinfo {
+	margin-top: 3em;
+	font-size: 80%;
+	margin-left: 230px;
+	margin-right: 10%;
+}
